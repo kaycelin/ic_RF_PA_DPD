@@ -10,7 +10,7 @@
   + <img src="https://user-images.githubusercontent.com/87049112/223910594-b643e375-a59e-49ab-b4be-77a45b97c43d.png" width="600px">
 
   - #### DPD iteration results
-  + <img src="https://user-images.githubusercontent.com/87049112/223891813-721330f7-2860-4641-9524-c9cdbbbeda44.png" width="600px">
+  + <img src="https://user-images.githubusercontent.com/87049112/223891813-721330f7-2860-4641-9524-c9cdbbbeda44.png" width="1000px">
 
 4. Performance with different ***pa_ampm_shifter***
   + <img src="https://user-images.githubusercontent.com/87049112/223971123-15cb805b-c8aa-4df3-a26e-dcd00b850c10.png" width="1000px">
