@@ -195,6 +195,49 @@
             DPDexpansionDBLimit: 5
              DPDexpanIterations: []
       ```
+    * learning
+    > dpd = 
+      ```
+      DPD_g with properties:
+
+                     order_poly: 9
+                   depth_memory: 7
+                 order_poly_lag: 0
+               depth_memory_lag: 0
+                      depth_lag: 0
+                    Niterations: 30
+           flag_even_order_poly: 1
+                      flag_conj: 0
+                   flag_dc_term: 0
+                   learning_arc: 'DLA'
+                  learning_rate: []
+                learning_method: []
+    flag_LS_exclude_zero_second: 0
+                       modelFit: 'WIN'
+              flag_Multicarrier: '2C'
+                     ORX_FlatdB: 0
+                      ORX_SNRdB: []
+                        ORX_LPF: []
+                            CFR: []
+                   paprdB_limit: []
+                           fnum: []
+                      coeffs_PM: [63×1 double]
+                        Ncoeffs: 63
+              coeffs_PM_history: [63×30 double]
+                         paprdB: [7.35 7.89 8.13 … ]
+            sigOut_u_predistort: [1966080×1 double]
+                 sigOut_y_paout: [1966080×1 double]
+                            evm: 0.943088130181803
+                      ACLRdBcal: 50.28
+                         NMSEdB: -40.53
+                   ACLRdBmargin: -19.72
+                   IpwrdBerrCal: -0.25
+                flag_Ipwr_check: 1
+                flag_aclr_check: {[70]}
+            DPDexpansionDBLimit: 5
+             DPDexpanIterations: []
+      ```
+           
   - DPD result: ACLR
   <img src="https://user-images.githubusercontent.com/87049112/225843004-8645a179-cb8b-45b8-8863-294724daa6e5.png" width="50%">
 
